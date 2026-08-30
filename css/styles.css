@@ -141,6 +141,11 @@ h3 { font-size: 1.06rem; }
 .authors { margin-bottom: 5px; color: var(--muted); font-size: 0.91rem; line-height: 1.55; }
 .venue { margin-bottom: 0; color: var(--green); font-size: 0.82rem; font-weight: 750; }
 .venue span { margin-left: 12px; color: var(--wine); }
+.publication-links { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 10px; }
+.publication-links a { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); font-size: 0.78rem; font-weight: 800; text-decoration: none; }
+.publication-links a:hover { color: var(--green); }
+.publication-links a:focus-visible { outline: 2px solid var(--green); outline-offset: 4px; }
+.publication-links img { width: 16px; height: 16px; }
 
 .cv-layout { display: grid; grid-template-columns: 180px minmax(0, 1fr); align-items: start; gap: clamp(50px, 8vw, 100px); }
 .cv-index { position: sticky; top: 110px; display: grid; gap: 10px; }
