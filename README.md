@@ -36,6 +36,8 @@ Then open `http://127.0.0.1:4173/index.html`.
 4. Add only links that are publicly available and verified.
 5. Update related acceptance news in `index.html` when appropriate.
 
+The homepage's selected publications section is reserved for papers where Sanghyeok Lee is the first author or is explicitly marked as an equal-contribution co-first author. Keep the same reverse chronological order and role labels when updating it.
+
 ### CV
 
 Keep entries in reverse chronological order. Reviewer venues are separated into conferences and journals, and venue abbreviations should remain consistent.
