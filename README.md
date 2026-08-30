@@ -32,8 +32,8 @@ Then open `http://127.0.0.1:4173/index.html`.
 
 1. Add new items to `publications.html` in reverse chronological order.
 2. Use `C`, `J`, `P`, or `U` for the publication type.
-3. Keep action links in this order: `Paper` or `arXiv`, `Code`, `Project`, `BibTeX`.
-4. Add only links that are publicly available and verified.
+3. Link each title to the official paper or arXiv page.
+4. Show a compact `Code` action beneath the paper only when a public repository is available and verified.
 5. Update related acceptance news in `index.html` when appropriate.
 
 The homepage's selected publications section is reserved for papers where Sanghyeok Lee is the first author or is explicitly marked as an equal-contribution co-first author. Keep the same reverse chronological order and role labels when updating it.
