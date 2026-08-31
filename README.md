@@ -14,7 +14,7 @@ assets/images/      Portrait and news images
 CNAME               GitHub Pages custom domain
 ```
 
-The site intentionally uses plain HTML and CSS. There is no build step. The homepage loads POWR's hosted script for the visitor counter; all other site behavior is dependency-free.
+The site intentionally uses plain HTML and CSS. There is no build step. The homepage loads POWR's hosted script for the visitor counter and a Flag Counter image for country statistics; all other site behavior is dependency-free.
 
 ## Local Preview
 
