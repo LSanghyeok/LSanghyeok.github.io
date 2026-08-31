@@ -99,11 +99,9 @@ h3 { font-size: 1.06rem; }
 .interest-list strong { font-size: 0.93rem; font-weight: 680; line-height: 1.4; }
 
 .selected-publications { border-top: 1px solid var(--ink); }
-.selected-publication { display: grid; grid-template-columns: 48px minmax(0, 1fr); align-items: start; gap: 24px; padding: 31px 8px 33px; border-bottom: 1px solid var(--line); transition: background-color 160ms ease; }
+.selected-publication { padding: 31px 8px 33px; border-bottom: 1px solid var(--line); transition: background-color 160ms ease; }
 .selected-publication:hover { background: #fafcfb; }
-.selected-publication-index { padding-top: 2px; color: var(--wine); font-family: Georgia, "Times New Roman", serif; font-size: 1.05rem; font-weight: 600; }
 .selected-publication-meta { display: flex; flex-wrap: wrap; gap: 5px 12px; margin-bottom: 9px; color: var(--green); font-size: 0.72rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; }
-.selected-publication-meta strong { color: var(--wine); font-weight: 800; }
 .selected-publication h3 { max-width: 940px; margin-bottom: 0; font-family: Georgia, "Times New Roman", serif; font-size: 1.28rem; font-weight: 600; line-height: 1.38; }
 .selected-publication h3 a { color: var(--ink); text-decoration-color: rgba(22, 75, 59, 0.35); }
 .selected-publication h3 a:hover { color: var(--green); }
@@ -225,7 +223,7 @@ h3 { font-size: 1.06rem; }
   .section { padding-block: 66px; }
   .page-intro { padding-block: 60px 52px; }
   .interest-list { grid-template-columns: 1fr; }
-  .selected-publication { grid-template-columns: 34px minmax(0, 1fr); gap: 12px; padding-inline: 0; }
+  .selected-publication { padding-inline: 0; }
   .selected-publication h3 { font-size: 1.12rem; }
   .section-heading { display: block; }
   .section-link { display: inline-block; margin-top: 18px; }

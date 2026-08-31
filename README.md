@@ -38,7 +38,7 @@ The POWR visitor counter may not render when `index.html` is opened directly wit
 4. Show a compact `Code` action beneath the paper only when a public repository is available and verified.
 5. Update related acceptance news in `index.html` when appropriate.
 
-The homepage's selected publications section is reserved for papers where Sanghyeok Lee is the first author or is explicitly marked as an equal-contribution co-first author. Keep the same reverse chronological order and role labels when updating it.
+The homepage's selected publications section is reserved for papers where Sanghyeok Lee is the first author or is explicitly marked as an equal-contribution co-first author. Keep the same reverse chronological order when updating it, but do not display author-role labels in the list.
 
 ### CV
 
