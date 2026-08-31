@@ -193,6 +193,7 @@ h3 { font-size: 1.06rem; }
 .footer-inner { min-height: 120px; display: flex; align-items: center; justify-content: space-between; gap: 30px; }
 .footer-inner p { margin: 0; }
 .footer-inner a { color: white; }
+.footer-counter { min-width: 308px; min-height: 86px; display: flex; align-items: center; justify-content: center; padding: 4px; overflow: hidden; border-radius: 4px; background: var(--soft); }
 
 @media (max-width: 800px) {
   .shell { width: min(calc(100% - 32px), var(--max-width)); }
@@ -235,6 +236,7 @@ h3 { font-size: 1.06rem; }
   .two-column-list { columns: 1; }
   .footer-inner { min-height: 140px; flex-direction: column; align-items: flex-start; justify-content: center; gap: 8px; }
   .footer-inner a { overflow-wrap: anywhere; }
+  .footer-counter { justify-content: flex-start; }
 }
 
 @media (prefers-reduced-motion: reduce) {

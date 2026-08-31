@@ -14,7 +14,7 @@ assets/images/      Portrait and news images
 CNAME               GitHub Pages custom domain
 ```
 
-The site intentionally uses plain HTML and CSS. There is no build step or runtime dependency.
+The site intentionally uses plain HTML and CSS. There is no build step. The homepage loads POWR's hosted script for the visitor counter; all other site behavior is dependency-free.
 
 ## Local Preview
 
@@ -25,6 +25,8 @@ python -m http.server 4173
 ```
 
 Then open `http://127.0.0.1:4173/index.html`.
+
+The POWR visitor counter may not render when `index.html` is opened directly with a `file://` URL. Test it through the local server or the deployed site. Keep the app ID `2cebd51a_1745403633` so the embed continues to address the existing counter; if the widget stops loading, copy the current HTML embed code from that app in the POWR dashboard.
 
 ## Content Updates
 
