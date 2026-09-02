@@ -78,7 +78,7 @@ h3 { font-size: 1.06rem; }
 .portrait { width: 100%; height: auto; aspect-ratio: 354 / 395; object-fit: cover; object-position: center top; }
 .profile-copy { max-width: 700px; }
 .eyebrow, .section-kicker { margin-bottom: 14px; color: var(--wine); font-size: 0.77rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; }
-.profile-alias { margin: -16px 0 24px; color: var(--muted); font-family: Georgia, "Times New Roman", serif; font-size: 1.12rem; }
+.profile-alias { margin: -16px 0 24px; color: var(--muted); font-family: Georgia, "Times New Roman", serif; font-size: 1.3rem; }
 .lead { max-width: 760px; color: #31413a; font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.22rem, 2.3vw, 1.55rem); line-height: 1.48; }
 .profile-copy > p:not(.eyebrow):not(.lead):not(.profile-alias) { max-width: 680px; color: var(--muted); }
 .profile-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 30px; }
