@@ -31,6 +31,7 @@
 - The CV service section was synchronized with the source on 2026-08-30 to include the 4th MedAGI workshop and TPAMI reviewing service.
 - The web CV was synchronized with the project-provided September 2, 2026 PDF on 2026-09-06, including exact education dates, the InnoCORE research-center project, corrected patent numbering, and the 2022 video-generation patent.
 - The LinkedIn profile URL was replaced with the user-provided current address on 2026-09-06.
+- Publication collaboration labels were shortened to `w/` and visually de-emphasized in both the web publication list and downloadable CV on 2026-09-06.
 - The home profile, September 2026 news, and CV experience section were synchronized with the live source on 2026-08-30 to reflect the TwelveLabs role and completed KAIST projects.
 - The home introduction and research-interest hierarchy were revised from the updated source message, centering ultra-long-context multimodal understanding.
 - The embedded News History was captured through its nested iframe; missing invited talks, poster presentations, and the 2021 PointWOLF news were added to the local archive.
