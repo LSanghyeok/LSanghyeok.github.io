@@ -9,12 +9,14 @@ index.html          About, research interests, and news
 cv.html             Web CV and academic service
 publications.html   Working papers and publications
 css/styles.css      Shared responsive styles
-assets/icons/       Interface icons
+assets/icons/       Interface icons and favicon
 assets/images/      Portrait and news images
+assets/documents/   Downloadable CV
+docs/               Source inventory and capture notes
 CNAME               GitHub Pages custom domain
 ```
 
-The site intentionally uses plain HTML and CSS. There is no build step. The homepage loads POWR's hosted script for the visitor counter and a Flag Counter image for country statistics; all other site behavior is dependency-free.
+The site intentionally uses plain HTML and CSS. There is no build step. The homepage loads POWR's hosted script for the visitor counter and a Flag Counter image for country statistics; all other site behavior is dependency-free. The downloadable CV is stored locally so it remains available with the static site.
 
 ## Local Preview
 
@@ -42,7 +44,7 @@ The homepage's selected publications section is reserved for papers where Sanghy
 
 ### CV
 
-Keep entries in reverse chronological order. Reviewer venues are separated into conferences and journals, and venue abbreviations should remain consistent.
+Keep entries in reverse chronological order. Reviewer venues are separated into conferences and journals, and venue abbreviations should remain consistent. Replace `assets/documents/Sanghyeok_Lee_CV_2026.pdf` when publishing a revised 2026 CV, and rename the file plus update `cv.html` when the year changes.
 
 ### Shared Styles
 
