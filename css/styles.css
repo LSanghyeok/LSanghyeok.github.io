@@ -1,6 +1,7 @@
 :root {
   --ink: #17211d;
   --muted: #59635f;
+  --muted-light: #6c7772;
   --line: #dbe1de;
   --soft: #f3f6f4;
   --paper: #ffffff;
@@ -150,7 +151,7 @@ h3 { font-size: 1.06rem; }
 .publication h3 a:hover { color: var(--green); }
 .authors { margin-bottom: 5px; color: var(--muted); font-size: 0.91rem; line-height: 1.55; }
 .venue { margin-bottom: 0; color: var(--green); font-size: 0.82rem; font-weight: 750; }
-.venue span { margin-left: 12px; color: var(--wine); }
+.venue span { margin-left: 12px; color: var(--muted-light); font-weight: 600; }
 .publication-links { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 10px; }
 .publication-links a { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); font-size: 0.78rem; font-weight: 800; text-decoration: none; }
 .publication-links a:hover { color: var(--green); }
