@@ -35,10 +35,11 @@ The POWR visitor counter may not render when `index.html` is opened directly wit
 ### Publications
 
 1. Add new items to `publications.html` in reverse chronological order.
-2. Use `C`, `J`, `P`, or `U` for the publication type.
+2. Use `C`, `W`, `J`, `P`, or `U` for the publication type (conference, workshop, journal, preprint, or under review).
 3. Link each title to the official paper or arXiv page.
 4. Show a compact `Code` action beneath the paper only when a public repository is available and verified.
-5. Update related acceptance news in `index.html` when appropriate.
+5. List accepted workshop papers above preprints in the downloadable CV.
+6. Update related acceptance news in `index.html` when appropriate.
 
 The homepage's selected publications section is reserved for papers where Sanghyeok Lee is the first author or is explicitly marked as an equal-contribution co-first author. Keep the same reverse chronological order when updating it, but do not display author-role labels in the list.
 

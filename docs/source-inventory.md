@@ -1,7 +1,7 @@
 # Source Inventory
 
 - Source: https://www.sanghyeoklee.com/
-- Captured: 2026-09-06
+- Captured: 2026-10-05
 - Platform: Google Sites
 
 ## Core pages rebuilt
@@ -20,7 +20,7 @@
 - Missing archive artwork was supplemented with the public Naver AI Lab project logo and the ICCV 2021 conference artwork used by Stanford AI Lab.
 - `assets/images/news/kcvs-host.png`: user-provided KCVS host mark (`Downloads/host_.png`), used for KCCV and KCVS Workshop news.
 - `assets/icons/favicon.svg`: repository-native favicon derived from the existing `SL` wordmark.
-- `assets/documents/Sanghyeok_Lee_CV_2026.pdf`: project-provided CV dated September 2, 2026, localized from the project output on 2026-09-06 and used to synchronize the web CV.
+- `assets/documents/Sanghyeok_Lee_CV_2026.pdf`: project-provided CV, localized from the project output on 2026-09-06 and updated on 2026-10-05 to reflect the HyperGraphPro workshop acceptance.
 
 ## Draft boundaries
 
@@ -29,6 +29,7 @@
 - Google Sites navigation chrome, search, tracking, report-abuse controls, and social icon bitmaps were not copied.
 - The source text and ordering were preserved while minor spelling, spacing, capitalization, and punctuation inconsistencies were normalized for presentation.
 - The CV service section was synchronized with the source on 2026-08-30 to include the 4th MedAGI workshop and TPAMI reviewing service.
+- The HyperGraphPro publication entry, homepage news, and downloadable CV were updated on 2026-10-05 from the user's confirmation of acceptance. Publications and the CV use `Pre-to-Post Workshop @ NeurIPS 2026`; homepage news uses the full workshop name, `Transitioning from Pre-Training to Post-Training`. The paper title links to its OpenReview forum. The workshop is non-archival, so the entry is labeled W1 rather than a main-conference paper.
 - The web CV was synchronized with the project-provided September 2, 2026 PDF on 2026-09-06, including exact education dates, the InnoCORE research-center project, corrected patent numbering, and the 2022 video-generation patent.
 - The LinkedIn profile URL was replaced with the user-provided current address on 2026-09-06.
 - Publication collaboration labels were shortened to `w/` and visually de-emphasized in both the web publication list and downloadable CV on 2026-09-06.
