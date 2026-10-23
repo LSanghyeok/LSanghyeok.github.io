@@ -34,7 +34,7 @@ The POWR visitor counter may not render when `index.html` is opened directly wit
 
 ### Publications
 
-1. Add new items to `publications.html` in reverse chronological order.
+1. Add new items to `publications.html` in reverse chronological order, keeping preprints (`P`) at the bottom of their year after all other publication types.
 2. Use `C`, `W`, `J`, `P`, or `U` for the publication type (conference, workshop, journal, preprint, or under review).
 3. Link each title to the official paper or arXiv page.
 4. Show a compact `Code` action beneath the paper only when a public repository is available and verified.
