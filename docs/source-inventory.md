@@ -24,6 +24,7 @@
 
 ## Draft boundaries
 
+- On 2026-10-23, SuperClip was removed from the homepage's selected publications at the user's request. Its preprint entries in Publications and the downloadable CV are retained.
 - On 2026-10-22, the downloadable CV was synchronized with the SuperClip preprint update: `P`, `arXiv preprint, 2026`, and a clickable arXiv title. The entry follows the accepted workshop paper and precedes the 2024 preprint; the KT collaboration label and three-page layout are preserved. The CV's last-updated date is October 22, 2026.
 - On 2026-10-22, SuperClip Pyramid for Video Temporal Grounding was moved from Working papers to the 2026 publication list as `P` / `arXiv preprint`, following the user's status update. Title, author order, preprint status, and submission date (2026-10-17) were verified at https://arxiv.org/abs/2610.26925 (user supplied https://arxiv.org/pdf/2610.26925v1). The existing KT Gen AI Lab collaboration label was retained. The paper was also added to the homepage's selected publications as a first-author paper. arXiv remains an external destination; no paper assets were mirrored.
 - Individual publication detail pages remain linked to the current public site in this first draft.
