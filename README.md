@@ -10,6 +10,7 @@ cv.html             Web CV and academic service
 publications.html   Working papers and publications
 css/styles.css      Shared responsive styles
 assets/icons/       Interface icons and favicon
+assets/fonts/       Locally hosted Source Sans 3 and its license
 assets/images/      Portrait and news images
 assets/documents/   Downloadable CV
 docs/               Source inventory and capture notes

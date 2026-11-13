@@ -14,6 +14,7 @@
 
 ## Local assets
 
+- `assets/fonts/source-sans-3.ttf`: Source Sans 3 variable font from the official Google Fonts repository (`https://github.com/google/fonts/tree/main/ofl/sourcesans3`), downloaded 2026-11-13. The SIL Open Font License is included in `assets/fonts/OFL.txt`. The PDF embeds the Regular and Semibold fonts from Adobe's official Source Sans release (`https://github.com/adobe-fonts/source-sans/tree/release/TTF`).
 - `assets/images/sanghyeok-lee.png`: profile image from the public source site.
 - `assets/images/news/`: news logos and event marks. TwelveLabs, MedAGI, CVPR, AAAI, KAIST, ICCV 2023/2025, NeurIPS, and Korea University images were captured from the source homepage.
 - `assets/images/news/twelvelabs-original.jpg`: untouched source image; `twelvelabs.jpg` is a whitespace-trimmed display copy.
@@ -24,6 +25,8 @@
 
 ## Draft boundaries
 
+- On 2026-11-13, the user selected Source Sans 3 for the website and requested an updated PDF CV. All three pages now load the font locally. The PDF was rebuilt from the existing PDF summary and the current web CV/publication entries, with a November 13, 2026 update date, four readable A4 pages, embedded Source Sans 3 fonts, and clickable paper, code, contact, and dissertation links. All 19 papers (including three working papers), eight patent/copyright entries, education, experience, talks, awards, and service were retained. Publication order follows the web archive, with preprints last within each year. `Jihwna Park` in the web working-paper author list was corrected to `Jihwan Park`, consistent with the existing PDF. The downloadable file keeps its existing relative path. All four PDF pages were rendered and inspected; 78 source entries and 33 link annotations were checked. The user approved publication of this update on 2026-11-13.
+- On 2026-11-13, the published homepage at `https://sanghyeoklee.com/` was inspected for a visual redesign. The existing three-page inventory (About, CV, Publications), factual copy, publication ordering, assets, document, external links, and visitor widgets were retained. The design now uses a shared sans-serif type scale, plain navigation and text actions, a smaller right-aligned portrait, white section backgrounds, and aligned publication rows. Decorative monogram, duplicate section kickers, and research-topic numbers were removed at the user's request to avoid a template-like appearance. Verified at 320, 768, and 1280 px with no horizontal overflow or broken local images; existing link destinations and local anchors were checked. Publication was approved after local review on 2026-11-13.
 - On 2026-10-23, preprints (`P`) were placed last within each year in Publications at the user's request. SuperClip now follows J1 in 2026; the 2024 preprint was already last. Other publication ordering is preserved.
 - On 2026-10-23, SuperClip was removed from the homepage's selected publications at the user's request. Its preprint entries in Publications and the downloadable CV are retained.
 - On 2026-10-22, the downloadable CV was synchronized with the SuperClip preprint update: `P`, `arXiv preprint, 2026`, and a clickable arXiv title. The entry follows the accepted workshop paper and precedes the 2024 preprint; the KT collaboration label and three-page layout are preserved. The CV's last-updated date is October 22, 2026.
